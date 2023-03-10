@@ -25,7 +25,7 @@
         },
         {
           "name": "React",
-          "logo": "https://github.com/larisn/bootcamp-javascript-developer/blob/main/m%C3%B3dulo%204/part%204/assets/img/icons/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png"
+          "logo": "https://github.com/larisn/bootcamp-javascript-developer/blob/main/m%C3%B3dulo%204/part%204/assets/img/icons/react.png"
         }
       ],
       "softSkills": [
@@ -61,9 +61,7 @@
     ],
     "professionalExperience": [
       {
-        "name": "Em breve",
-        "period": "",
-        "description": ""
+        "name": "Em breve"
       }
     ]
   }
