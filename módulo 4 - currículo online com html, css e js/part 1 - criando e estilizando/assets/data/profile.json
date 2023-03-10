@@ -9,23 +9,23 @@
       "hardSkills": [
         {
           "name": "HTML",
-          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/html.png"
+          "logo": "https://github.com/larisn/bootcamp-javascript-developer/blob/main/m%C3%B3dulo%204%20-%20curr%C3%ADculo%20online%20com%20html%2C%20css%20e%20js/part%201%20-%20criando%20e%20estilizando/assets/img/icons/html.png"
         },
         {
           "name": "CSS",
-          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/css.png"
+          "logo": "https://github.com/larisn/bootcamp-javascript-developer/blob/main/m%C3%B3dulo%204%20-%20curr%C3%ADculo%20online%20com%20html%2C%20css%20e%20js/part%201%20-%20criando%20e%20estilizando/assets/img/icons/css.png"
         },
         {
           "name": "JavaScript",
-          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/js.png"
+          "logo": "https://github.com/larisn/bootcamp-javascript-developer/blob/main/m%C3%B3dulo%204%20-%20curr%C3%ADculo%20online%20com%20html%2C%20css%20e%20js/part%201%20-%20criando%20e%20estilizando/assets/img/icons/js.png"
         },
         {
           "name": "TypeScript",
-          "logo": "https://github.com/larisn/bootcamp-javascript-developer/blob/main/m%C3%B3dulo%204/part%204/assets/img/icons/typescript.png"
+          "logo": "https://github.com/larisn/bootcamp-javascript-developer/blob/main/m%C3%B3dulo%204%20-%20curr%C3%ADculo%20online%20com%20html%2C%20css%20e%20js/part%201%20-%20criando%20e%20estilizando/assets/img/icons/typescript.png"
         },
         {
           "name": "React",
-          "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/react.png"
+          "logo": "https://github.com/larisn/bootcamp-javascript-developer/blob/main/m%C3%B3dulo%204%20-%20curr%C3%ADculo%20online%20com%20html%2C%20css%20e%20js/part%201%20-%20criando%20e%20estilizando/assets/img/icons/react.png"
         }
       ],
       "softSkills": [
