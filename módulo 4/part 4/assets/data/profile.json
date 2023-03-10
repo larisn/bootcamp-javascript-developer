@@ -9,23 +9,23 @@
       "hardSkills": [
         {
           "name": "HTML",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+          "logo": "https://github.com/larisn/bootcamp-javascript-developer/blob/main/m%C3%B3dulo%204/part%204/assets/img/icons/html.png"
         },
         {
           "name": "CSS",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+          "logo": "https://github.com/larisn/bootcamp-javascript-developer/blob/main/m%C3%B3dulo%204/part%204/assets/img/icons/css.png"
         },
         {
           "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+          "logo": "https://github.com/larisn/bootcamp-javascript-developer/blob/main/m%C3%B3dulo%204/part%204/assets/img/icons/js.png"
         },
         {
           "name": "TypeScript",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/typescript.png"
+          "logo": "https://github.com/larisn/bootcamp-javascript-developer/blob/main/m%C3%B3dulo%204/part%204/assets/img/icons/typescript.png"
         },
         {
           "name": "React",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+          "logo": "https://github.com/larisn/bootcamp-javascript-developer/blob/main/m%C3%B3dulo%204/part%204/assets/img/icons/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png"
         }
       ],
       "softSkills": [
