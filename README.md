@@ -21,3 +21,9 @@ A formação está dividida em 4 módulos:
 
 ## 🎐 Licença
 Esse repositório está sob licença. Clique no arquivo [LICENÇA](https://github.com/larisn/larisn/blob/main/LICENSE2.md) para ver mais detalhes.
+
+<br>
+
+---
+
+Feito com 💛 by larisn
