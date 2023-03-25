@@ -9,6 +9,14 @@
 > A Formação JavaScript Developer é um bootcamp da DIO de imersão e prática do JavaScript, que ensina desde os fundamentos da linguagem até seu papel principal na WEB. Nesse repositório irei colocar todos os exercícios, desafios e projetos que vou desenvolver ao longo da formação.
 <br>
 
+## ⚜️ Módulos
+A formação está dividida em 4 módulos:
+- **Módulo 1:** Aprenda a programar do zero com JavaScript;
+- **Módulo 2:** JavaScript para Web: Fundamentos de HTML, CSS e APIs na Prática;
+- **Módulo 3:** Dominando Conceitos Avançados em JavaScript;
+- **Módulo 4:** Currículo Online com HTML, CSS e JavaScript: Da Prototipação ao Deploy
+
+
 ---
 
 ## 🎐 Licença
